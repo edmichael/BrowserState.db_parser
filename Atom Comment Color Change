@@ -1,4 +1,0 @@
-/* Makes comments more visible: */
-.syntax--comment, .syntax--punctuation.syntax--definition.syntax--comment {
-  color: #9d5c5c; /* Darkish-Red */
-}
